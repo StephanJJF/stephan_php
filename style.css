@@ -1,0 +1,9 @@
+table {
+    width: 100%;
+    margin: 5vw 0;
+}
+
+td, th {
+    border: solid .5px rgb(205, 205, 205);
+    text-align: center;
+}
